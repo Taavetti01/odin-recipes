@@ -1,1 +1,1 @@
-# odin-recipes
+I've created Odin Recipe Project, for like 5th time... was kinda easy, I'm looking forward to see how it goes.
